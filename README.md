@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldo?theme=light&font=Rye)
+![Monkeytype stats](https://monkeytype.com/profile/ram_toshniwal_)
