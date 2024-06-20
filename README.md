@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dhruv Toshniwal</h1>
 <h3 align="center">A passionate Developer from India</h3>
@@ -28,7 +27,7 @@
 
 ## My Stats
 
-[![Dhruv's GitHub | Stats](https://stats.quine.sh/ramtoshniwal/github?theme=dark)](https://quine.sh)
+[Dhruv's GitHub | Stats](https://stats.quine.sh/ramtoshniwal/github?theme=dark)](https://quine.sh)
 
 ![Dhruv's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=ramtoshniwal&show_icons=true&locale=en&layout=compact&theme=algolia)
 
