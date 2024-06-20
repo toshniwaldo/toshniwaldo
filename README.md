@@ -28,13 +28,13 @@
 
 ## My Stats
 
-[![Dhruv's GitHub | Stats](https://stats.quine.sh/toshniwaldo/github?theme=dark)](https://quine.sh)
+[![Dhruv's GitHub | Stats](https://stats.quine.sh/ramtoshniwal/github?theme=dark)](https://quine.sh)
 
 ![Dhruv's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=ramtoshniwal&show_icons=true&locale=en&layout=compact&theme=algolia)
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshniwaldo&show_icons=true&theme=algolia)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtoshniwal&show_icons=true&theme=algolia)
 
-![Dhruv's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=toshniwaldo&theme=algolia)
+![Dhruv's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramtoshniwal&theme=algolia)
 
 ![Dhruv's LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldo?theme=light&font=Rye)
 
