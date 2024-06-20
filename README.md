@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **javascript projects**
 
-- 🌱 I’m currently learning **backend development with node js and express js **
+- 🌱 I’m currently learning **backend development with node js and express js**
 
 - 📫 How to reach me **dhruvtoshniwal76@gmail.com**
 
@@ -33,5 +33,5 @@
 
 ![Dhruv's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramtoshniwal&theme=algolia)
 
-![Dhruv's LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldo?theme=light&font=Rye)
+[Dhruv's LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldo?theme=light&font=Rye)
 
