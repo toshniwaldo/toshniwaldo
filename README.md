@@ -27,7 +27,7 @@
 
 ## My Stats
 
-[Dhruv's GitHub | Stats](https://stats.quine.sh/ramtoshniwal/github?theme=dark)](https://quine.sh)
+(https://stats.quine.sh/ramtoshniwal/github?theme=dark)]
 
 ![Dhruv's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=ramtoshniwal&show_icons=true&locale=en&layout=compact&theme=algolia)
 
