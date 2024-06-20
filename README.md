@@ -27,8 +27,6 @@
 
 ## My Stats
 
-(https://stats.quine.sh/ramtoshniwal/github?theme=dark)]
-
 ![Dhruv's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=ramtoshniwal&show_icons=true&locale=en&layout=compact&theme=algolia)
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramtoshniwal&show_icons=true&theme=algolia)
