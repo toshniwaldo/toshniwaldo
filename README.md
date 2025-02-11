@@ -5,9 +5,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
-- 🔭 I’m currently working on **javascript projects**
+- 🔭 Currently crafting dynamic web applications with **node js and express js**
 
-- 🌱 I’m currently learning **backend development with node js and express js**
+- 🌱 Architecting scalable backend infrastructures with AWS and exploring the depths of networking protocols
+  
+- 💡 Passionate about creating efficient, scalable, and maintainable code
 
 - 📫 How to reach me **dhruvtoshniwal76@gmail.com**
 
