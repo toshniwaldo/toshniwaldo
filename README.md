@@ -35,5 +35,5 @@
 
 ![Dhruv's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=toshniwaldo&theme=algolia)
 
-![Dhruv's LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldo?theme=algolia)
+![Dhruv's LeetCode Stats](https://leetcard.jacoblin.cool/toshniwaldhruv?theme=algolia)
 
